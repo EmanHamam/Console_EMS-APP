@@ -363,20 +363,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is part of an educational examination system. All rights reserved.
 
----
-
-## 👤 Author
-
-**Eman Hamam**
-
-- GitHub: [@EmanHamam](https://github.com/EmanHamam)
-- Repository: [Console_EMS_C-APP](https://github.com/EmanHamam/Console_EMS_C-APP)
-
----
-
-## 📞 Support
-
-For issues, questions, or suggestions, please open an issue on the [GitHub repository](https://github.com/EmanHamam/Console_EMS_C-APP/issues).
 
 ---
 
