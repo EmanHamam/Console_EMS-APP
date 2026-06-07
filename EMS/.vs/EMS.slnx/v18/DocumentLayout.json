@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\questions\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\questions\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D48FFAC-2A19-0F29-AE2D-C3B1E7BB8E3A}|EMS\\EMS.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D48FFAC-2A19-0F29-AE2D-C3B1E7BB8E3A}|EMS\\EMS.csproj|solutionrelative:ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9E54A1-22E7-4AD4-8327-3F32FF7BBDB3}|Ems.Infrastructure\\Ems.Infrastructure.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9E54A1-22E7-4AD4-8327-3F32FF7BBDB3}|Ems.Infrastructure\\Ems.Infrastructure.csproj|solutionrelative:ems.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9E54A1-22E7-4AD4-8327-3F32FF7BBDB3}|Ems.Infrastructure\\Ems.Infrastructure.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9E54A1-22E7-4AD4-8327-3F32FF7BBDB3}|Ems.Infrastructure\\Ems.Infrastructure.csproj|solutionrelative:ems.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9E54A1-22E7-4AD4-8327-3F32FF7BBDB3}|Ems.Infrastructure\\Ems.Infrastructure.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.infrastructure\\helpers\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9E54A1-22E7-4AD4-8327-3F32FF7BBDB3}|Ems.Infrastructure\\Ems.Infrastructure.csproj|solutionrelative:ems.infrastructure\\helpers\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\enums\\exammode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\enums\\exammode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\interfaces\\iexambehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\interfaces\\iexambehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\delegates\\examstartedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\delegates\\examstartedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\eventarg\\exameventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\eventarg\\exameventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\subjects\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\subjects\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\exams\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\exams\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\questions\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\questions\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\questions\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\questions\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\questions\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\questions\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\answers\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\answers\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.domain\\models\\answers\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09948102-941C-3597-C986-F9718DADFEFE}|EMS.Domain\\EMS.Domain.csproj|solutionrelative:ems.domain\\models\\answers\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9E54A1-22E7-4AD4-8327-3F32FF7BBDB3}|Ems.Infrastructure\\Ems.Infrastructure.csproj|d:\\ida\\c#\\tasks\\ems\\console_ems_c-app\\ems\\ems.infrastructure\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9E54A1-22E7-4AD4-8327-3F32FF7BBDB3}|Ems.Infrastructure\\Ems.Infrastructure.csproj|solutionrelative:ems.infrastructure\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-07T11:26:12.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\Ems.Infrastructure\\Helpers\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Ems.Infrastructure\\Helpers\\DataSeeder.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\Ems.Infrastructure\\Helpers\\DataSeeder.cs",
+              "RelativeToolTip": "Ems.Infrastructure\\Helpers\\DataSeeder.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwI0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:12:25.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExamStartedHandler.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Delegates\\ExamStartedHandler.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Delegates\\ExamStartedHandler.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Delegates\\ExamStartedHandler.cs",
+              "RelativeToolTip": "EMS.Domain\\Delegates\\ExamStartedHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:12:03.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExamEventArgs.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\EventArg\\ExamEventArgs.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\EventArg\\ExamEventArgs.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\EventArg\\ExamEventArgs.cs",
+              "RelativeToolTip": "EMS.Domain\\EventArg\\ExamEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:12:00.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamMode.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Enums\\ExamMode.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Enums\\ExamMode.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Enums\\ExamMode.cs",
+              "RelativeToolTip": "EMS.Domain\\Enums\\ExamMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:11:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Students\\Student.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Students\\Student.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Students\\Student.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Students\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:10:58.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS\\Program.cs",
+              "RelativeDocumentMoniker": "EMS\\Program.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS\\Program.cs",
+              "RelativeToolTip": "EMS\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwDIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T14:53:32.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseOneQuestion.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\ChooseOneQuestion.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Questions\\ChooseOneQuestion.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\ChooseOneQuestion.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Questions\\ChooseOneQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:05:39.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\Ems.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Ems.Infrastructure\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\Ems.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Ems.Infrastructure\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:13:10.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\Ems.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Ems.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\Ems.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Ems.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:13:11.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Subjects\\Subject.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Subjects\\Subject.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Subjects\\Subject.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Subjects\\Subject.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:11:01.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PracticeExam.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Exams\\PracticeExam.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Exams\\PracticeExam.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Exams\\PracticeExam.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Exams\\PracticeExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:10:41.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Exams\\FinalExam.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Exams\\FinalExam.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Exams\\FinalExam.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Exams\\FinalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:10:33.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IExamBehavior.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Interfaces\\IExamBehavior.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Interfaces\\IExamBehavior.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Interfaces\\IExamBehavior.cs",
+              "RelativeToolTip": "EMS.Domain\\Interfaces\\IExamBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:06:55.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Exams\\Exam.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Exams\\Exam.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Exams\\Exam.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Exams\\Exam.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAwwNUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:06:48.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuestionList.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\QuestionList.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Questions\\QuestionList.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\QuestionList.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Questions\\QuestionList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:06:02.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChooseAllQuestion.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\ChooseAllQuestion.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Questions\\ChooseAllQuestion.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\ChooseAllQuestion.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Questions\\ChooseAllQuestion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:04:28.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TrueFalseQuestion.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\TrueFalseQuestion.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Questions\\TrueFalseQuestion.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\TrueFalseQuestion.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Questions\\TrueFalseQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:02:35.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\Question.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Questions\\Question.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Questions\\Question.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Questions\\Question.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:01:44.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AnswerList.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Answers\\AnswerList.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Answers\\AnswerList.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Answers\\AnswerList.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Answers\\AnswerList.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:01:10.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Answers\\Answer.cs",
+              "RelativeDocumentMoniker": "EMS.Domain\\Models\\Answers\\Answer.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\EMS.Domain\\Models\\Answers\\Answer.cs",
+              "RelativeToolTip": "EMS.Domain\\Models\\Answers\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:00:36.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\Ems.Infrastructure\\Helpers\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Ems.Infrastructure\\Helpers\\ConsoleHelper.cs",
+              "ToolTip": "D:\\IDA\\C#\\Tasks\\EMS\\Console_EMS_C-APP\\EMS\\Ems.Infrastructure\\Helpers\\ConsoleHelper.cs",
+              "RelativeToolTip": "Ems.Infrastructure\\Helpers\\ConsoleHelper.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAwwIAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T14:58:21.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

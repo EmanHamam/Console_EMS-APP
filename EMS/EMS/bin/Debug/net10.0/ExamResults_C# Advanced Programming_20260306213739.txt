@@ -1,0 +1,11 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 1
+Exam Time: 1 minutes
+
+True/False: A struct can inherit from another struct in C#. (5 Marks)
+Student Answers:
+2 - False
+
+=====================================

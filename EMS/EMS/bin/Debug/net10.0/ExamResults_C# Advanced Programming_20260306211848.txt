@@ -1,0 +1,42 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 10
+Exam Time: 1 minutes
+
+True/False: The 'sealed' keyword prevents a class from being inherited. (5 Marks)
+Student Answers:
+1 - True
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+True/False: Interfaces in C# can contain method implementations via default interface methods (.NET 8+). (5 Marks)
+Student Answers:
+1 - True
+
+Choose One: What is the correct way to declare a nullable int in C#? (10 Marks)
+Student Answers:
+2 - nullable int x
+
+Choose more than One: Which are valid C# access modifiers? (15 Marks)
+Student Answers:
+
+Choose One: Which keyword is used for inheritance in C#? (10 Marks)
+Student Answers:
+
+True/False: An abstract class can be instantiated directly. (5 Marks)
+Student Answers:
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+
+True/False: A struct can inherit from another struct in C#. (5 Marks)
+Student Answers:
+1 - True
+
+=====================================

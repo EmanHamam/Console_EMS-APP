@@ -1,0 +1,16 @@
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\bin\Debug\net10.0\Ems.Infrastructure.deps.json
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\bin\Debug\net10.0\Ems.Infrastructure.dll
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\bin\Debug\net10.0\Ems.Infrastructure.pdb
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\Ems.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\Ems.Infrastructure.AssemblyInfoInputs.cache
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\Ems.Infrastructure.AssemblyInfo.cs
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\Ems.Infrastructure.csproj.CoreCompileInputs.cache
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\Ems.Infrastructure.sourcelink.json
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\Ems.Infrastructure.dll
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\refint\Ems.Infrastructure.dll
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\Ems.Infrastructure.pdb
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\ref\Ems.Infrastructure.dll
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\Ems.Infrastructure.csproj.AssemblyReference.cache
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\bin\Debug\net10.0\EMS.Domain.dll
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\bin\Debug\net10.0\EMS.Domain.pdb
+D:\IDA\C#\Tasks\Lab7\c-lab-7-examination-system-EmanHamam\EMS\Ems.Infrastructure\obj\Debug\net10.0\Ems.Infr.7EC2D752.Up2Date

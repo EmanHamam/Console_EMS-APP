@@ -1,0 +1,24 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+1 - new Thread()
+2 - Thread.Spawn()
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+
+True/False: A struct can inherit from another struct in C#. (5 Marks)
+Student Answers:
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+
+=====================================

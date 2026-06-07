@@ -1,0 +1,38 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 10
+Exam Time: 1 minutes
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+1 - Factory
+
+Choose One: Which keyword is used for inheritance in C#? (10 Marks)
+Student Answers:
+
+True/False: The 'sealed' keyword prevents a class from being inherited. (5 Marks)
+Student Answers:
+
+True/False: 'async' and 'await' keywords are used for asynchronous programming in C#. (5 Marks)
+Student Answers:
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+
+Choose more than One: Which of these are OOP pillars? (15 Marks)
+Student Answers:
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+
+Choose more than One: Which of these are SOLID principles? (15 Marks)
+Student Answers:
+
+=====================================

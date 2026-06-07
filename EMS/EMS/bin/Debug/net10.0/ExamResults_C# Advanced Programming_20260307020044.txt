@@ -1,0 +1,28 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+2 - Observer
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+1 - int
+3 - bool
+
+Choose One: Which keyword is used to prevent method overriding in C#? (10 Marks)
+Student Answers:
+4 - const
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+4 - async/await
+1 - new Thread()
+
+=====================================

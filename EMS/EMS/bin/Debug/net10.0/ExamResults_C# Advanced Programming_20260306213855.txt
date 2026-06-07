@@ -1,0 +1,27 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+1 - using statement
+
+Choose more than One: Which of these are OOP pillars? (15 Marks)
+Student Answers:
+1 - Encapsulation
+
+True/False: The 'sealed' keyword prevents a class from being inherited. (5 Marks)
+Student Answers:
+1 - True
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+2 - False
+
+True/False: 'async' and 'await' keywords are used for asynchronous programming in C#. (5 Marks)
+Student Answers:
+1 - True
+
+=====================================

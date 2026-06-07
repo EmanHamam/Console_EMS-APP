@@ -1,0 +1,56 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+2 - Observer
+
+Choose One: What is the correct way to declare a nullable int in C#? (10 Marks)
+Student Answers:
+1 - int? x
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+3 - bool
+1 - int
+
+True/False: String is a reference type in C#. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: What is the base class of all classes in C#? (10 Marks)
+Student Answers:
+2 - Object
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+2 - Observer
+
+Choose One: What is the correct way to declare a nullable int in C#? (10 Marks)
+Student Answers:
+1 - int? x
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+3 - bool
+1 - int
+
+True/False: String is a reference type in C#. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: What is the base class of all classes in C#? (10 Marks)
+Student Answers:
+2 - Object
+
+=====================================

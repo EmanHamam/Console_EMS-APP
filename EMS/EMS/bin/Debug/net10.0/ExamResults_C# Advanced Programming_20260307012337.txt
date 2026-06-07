@@ -1,0 +1,54 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of these are features of C# generics? (15 Marks)
+Student Answers:
+1 - Type safety
+4 - Reduced boxing
+
+True/False: A struct can inherit from another struct in C#. (5 Marks)
+Student Answers:
+1 - True
+
+True/False: 'async' and 'await' keywords are used for asynchronous programming in C#. (5 Marks)
+Student Answers:
+2 - False
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+1 - public
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of these are features of C# generics? (15 Marks)
+Student Answers:
+1 - Type safety
+4 - Reduced boxing
+
+True/False: A struct can inherit from another struct in C#. (5 Marks)
+Student Answers:
+1 - True
+
+True/False: 'async' and 'await' keywords are used for asynchronous programming in C#. (5 Marks)
+Student Answers:
+2 - False
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+1 - public
+
+=====================================

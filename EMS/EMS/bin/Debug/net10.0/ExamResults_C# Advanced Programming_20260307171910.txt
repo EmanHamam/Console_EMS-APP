@@ -1,0 +1,58 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+1 - int
+3 - bool
+
+Choose more than One: Which of these are OOP pillars? (15 Marks)
+Student Answers:
+1 - Encapsulation
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+2 - Thread.Spawn()
+
+True/False: Generics in C# provide type safety at compile time. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+2 - Garbage Collector call
+3 - using declaration (C# 8+)
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+1 - int
+3 - bool
+
+Choose more than One: Which of these are OOP pillars? (15 Marks)
+Student Answers:
+1 - Encapsulation
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+2 - Thread.Spawn()
+
+True/False: Generics in C# provide type safety at compile time. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+2 - Garbage Collector call
+3 - using declaration (C# 8+)
+
+=====================================

@@ -1,0 +1,58 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose One: What is the base class of all classes in C#? (10 Marks)
+Student Answers:
+2 - Object
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+2 - Observer
+
+True/False: Interfaces in C# can contain method implementations via default interface methods (.NET 8+). (5 Marks)
+Student Answers:
+2 - False
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+2 - False
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+1 - using statement
+3 - using declaration (C# 8+)
+4 - Dispose() method call
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose One: What is the base class of all classes in C#? (10 Marks)
+Student Answers:
+2 - Object
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+2 - Observer
+
+True/False: Interfaces in C# can contain method implementations via default interface methods (.NET 8+). (5 Marks)
+Student Answers:
+2 - False
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+2 - False
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+1 - using statement
+3 - using declaration (C# 8+)
+4 - Dispose() method call
+
+=====================================

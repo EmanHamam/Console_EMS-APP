@@ -1,0 +1,28 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of these are OOP pillars? (15 Marks)
+Student Answers:
+4 - Polymorphism
+3 - Inheritance
+1 - Encapsulation
+
+Choose One: What is the base class of all classes in C#? (10 Marks)
+Student Answers:
+2 - Object
+
+True/False: Generics in C# provide type safety at compile time. (5 Marks)
+Student Answers:
+1 - True
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+1 - True
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+
+=====================================

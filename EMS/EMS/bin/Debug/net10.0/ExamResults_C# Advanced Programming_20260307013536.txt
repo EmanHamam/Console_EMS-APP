@@ -1,0 +1,62 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose more than One: Which keywords are used for exception handling in C#? (15 Marks)
+Student Answers:
+1 - try
+3 - catch
+4 - finally
+
+Choose One: Which collection type ensures unique elements in C#? (10 Marks)
+Student Answers:
+1 - List<T>
+
+Choose more than One: Which of these are features of C# generics? (15 Marks)
+Student Answers:
+3 - Code reuse
+1 - Type safety
+
+True/False: String is a reference type in C#. (5 Marks)
+Student Answers:
+2 - False
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+1 - First()
+3 - Single()
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose more than One: Which keywords are used for exception handling in C#? (15 Marks)
+Student Answers:
+1 - try
+3 - catch
+4 - finally
+
+Choose One: Which collection type ensures unique elements in C#? (10 Marks)
+Student Answers:
+1 - List<T>
+
+Choose more than One: Which of these are features of C# generics? (15 Marks)
+Student Answers:
+3 - Code reuse
+1 - Type safety
+
+True/False: String is a reference type in C#. (5 Marks)
+Student Answers:
+2 - False
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+1 - First()
+3 - Single()
+
+=====================================

@@ -1,0 +1,22 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+
+Choose One: What does LINQ stand for? (10 Marks)
+Student Answers:
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+
+True/False: Value types in C# are stored on the heap. (5 Marks)
+Student Answers:
+
+True/False: The 'sealed' keyword prevents a class from being inherited. (5 Marks)
+Student Answers:
+
+=====================================

@@ -1,0 +1,52 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 10
+Exam Time: 30 minutes
+Final Grade: 35
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+1 - Factory
+
+True/False: Interfaces in C# can contain method implementations via default interface methods (.NET 8+). (5 Marks)
+Student Answers:
+1 - True
+
+Choose One: What is the correct way to declare a nullable int in C#? (10 Marks)
+Student Answers:
+2 - nullable int x
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+1 - new Thread()
+2 - Thread.Spawn()
+
+True/False: 'async' and 'await' keywords are used for asynchronous programming in C#. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which keywords are used for exception handling in C#? (15 Marks)
+Student Answers:
+1 - try
+3 - catch
+4 - finally
+
+Choose more than One: Which of these are creational design patterns? (15 Marks)
+Student Answers:
+1 - Singleton
+2 - Observer
+
+Choose One: What is the base class of all classes in C#? (10 Marks)
+Student Answers:
+2 - Object
+
+Choose more than One: Which of these are OOP pillars? (15 Marks)
+Student Answers:
+1 - Encapsulation
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+1 - True
+
+=====================================

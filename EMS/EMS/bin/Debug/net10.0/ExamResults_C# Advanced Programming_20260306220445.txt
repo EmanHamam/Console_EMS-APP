@@ -1,0 +1,64 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of these are SOLID principles? (15 Marks)
+Student Answers:
+1 - Single Responsibility
+2 - Open/Closed
+3 - Multiple Inheritance
+4 - Liskov Substitution
+
+Choose more than One: Which are valid C# access modifiers? (15 Marks)
+Student Answers:
+1 - public
+3 - protected
+4 - internal
+
+Choose One: Which keyword is used for inheritance in C#? (10 Marks)
+Student Answers:
+2 - extends
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+True/False: String is a reference type in C#. (5 Marks)
+Student Answers:
+1 - True
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of these are SOLID principles? (15 Marks)
+Student Answers:
+1 - Single Responsibility
+2 - Open/Closed
+3 - Multiple Inheritance
+4 - Liskov Substitution
+
+Choose more than One: Which are valid C# access modifiers? (15 Marks)
+Student Answers:
+1 - public
+3 - protected
+4 - internal
+
+Choose One: Which keyword is used for inheritance in C#? (10 Marks)
+Student Answers:
+2 - extends
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+True/False: String is a reference type in C#. (5 Marks)
+Student Answers:
+1 - True
+
+=====================================

@@ -1,0 +1,38 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 10
+Exam Time: 1 minutes
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+1 - public
+
+Choose more than One: Which of these are creational design patterns? (15 Marks)
+Student Answers:
+
+Choose more than One: Which of these are features of C# generics? (15 Marks)
+Student Answers:
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+
+Choose more than One: Which keywords are used for exception handling in C#? (15 Marks)
+Student Answers:
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+
+True/False: String is a reference type in C#. (5 Marks)
+Student Answers:
+
+Choose One: What does LINQ stand for? (10 Marks)
+Student Answers:
+
+=====================================

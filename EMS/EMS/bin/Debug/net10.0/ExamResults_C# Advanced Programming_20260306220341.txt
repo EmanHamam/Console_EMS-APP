@@ -1,0 +1,23 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+1 - int
+
+True/False: An abstract class can be instantiated directly. (5 Marks)
+Student Answers:
+
+Choose more than One: Which of these are creational design patterns? (15 Marks)
+Student Answers:
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+
+=====================================

@@ -1,0 +1,54 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+4 - Dispose() method call
+2 - Garbage Collector call
+
+True/False: Generics in C# provide type safety at compile time. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which of these are OOP pillars? (15 Marks)
+Student Answers:
+
+Choose One: Which method is used to convert a string to an integer in C#? (10 Marks)
+Student Answers:
+2 - int.Parse()
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+4 - Dispose() method call
+2 - Garbage Collector call
+
+True/False: Generics in C# provide type safety at compile time. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which of these are OOP pillars? (15 Marks)
+Student Answers:
+
+Choose One: Which method is used to convert a string to an integer in C#? (10 Marks)
+Student Answers:
+2 - int.Parse()
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+=====================================

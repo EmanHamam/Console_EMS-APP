@@ -1,0 +1,27 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose One: What is the correct way to declare a nullable int in C#? (10 Marks)
+Student Answers:
+2 - nullable int x
+
+True/False: Generics in C# provide type safety at compile time. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+2 - Passes variable by reference
+
+Choose One: What does LINQ stand for? (10 Marks)
+Student Answers:
+1 - Language Integrated Query
+
+True/False: String is a reference type in C#. (5 Marks)
+Student Answers:
+2 - False
+
+=====================================

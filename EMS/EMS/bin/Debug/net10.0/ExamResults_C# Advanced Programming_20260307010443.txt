@@ -1,0 +1,56 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+1 - using statement
+4 - Dispose() method call
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+2 - Where()
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: Which method is used to convert a string to an integer in C#? (10 Marks)
+Student Answers:
+1 - Convert.ToInt()
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+Choose more than One: Which of these implement IDisposable pattern correctly? (15 Marks)
+Student Answers:
+1 - using statement
+4 - Dispose() method call
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+2 - Where()
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: Which method is used to convert a string to an integer in C#? (10 Marks)
+Student Answers:
+1 - Convert.ToInt()
+
+=====================================

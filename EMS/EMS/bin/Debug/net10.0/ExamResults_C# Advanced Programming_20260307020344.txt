@@ -1,0 +1,56 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+3 - Single()
+1 - First()
+
+True/False: A struct can inherit from another struct in C#. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which of these are SOLID principles? (15 Marks)
+Student Answers:
+1 - Single Responsibility
+
+Choose One: What is the base class of all classes in C#? (10 Marks)
+Student Answers:
+2 - Object
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+2 - False
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+3 - Single()
+1 - First()
+
+True/False: A struct can inherit from another struct in C#. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which of these are SOLID principles? (15 Marks)
+Student Answers:
+1 - Single Responsibility
+
+Choose One: What is the base class of all classes in C#? (10 Marks)
+Student Answers:
+2 - Object
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+2 - False
+
+=====================================

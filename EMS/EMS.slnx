@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EMS.Domain/EMS.Domain.csproj" />
+  <Project Path="Ems.Infrastructure/Ems.Infrastructure.csproj" Id="5a9e54a1-22e7-4ad4-8327-3f32ff7bbdb3" />
+  <Project Path="EMS/EMS.csproj" />
+</Solution>

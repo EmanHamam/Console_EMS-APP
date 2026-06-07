@@ -1,0 +1,50 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+2 - Observer
+
+Choose One: What is the correct way to declare a nullable int in C#? (10 Marks)
+Student Answers:
+2 - nullable int x
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+2 - Passes variable by reference
+
+Choose more than One: Which of these are creational design patterns? (15 Marks)
+Student Answers:
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+2 - Observer
+
+Choose One: What is the correct way to declare a nullable int in C#? (10 Marks)
+Student Answers:
+2 - nullable int x
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+2 - Passes variable by reference
+
+Choose more than One: Which of these are creational design patterns? (15 Marks)
+Student Answers:
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+
+=====================================

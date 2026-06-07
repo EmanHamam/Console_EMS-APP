@@ -1,0 +1,58 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+True/False: 'async' and 'await' keywords are used for asynchronous programming in C#. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+1 - int
+3 - bool
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+1 - First()
+3 - Single()
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+1 - Creates a copy of a value
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 5 minutes
+
+True/False: 'async' and 'await' keywords are used for asynchronous programming in C#. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+1 - int
+3 - bool
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+1 - First()
+3 - Single()
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+1 - Creates a copy of a value
+
+=====================================

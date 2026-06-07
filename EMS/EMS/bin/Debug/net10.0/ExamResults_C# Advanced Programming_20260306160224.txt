@@ -1,0 +1,50 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 10
+Exam Time: 30 minutes
+Final Grade: 10
+
+Choose more than One: Which of the following are value types in C#? (15 Marks)
+Student Answers:
+1 - int
+
+Choose One: What is the base class of all classes in C#? (10 Marks)
+Student Answers:
+2 - Object
+
+Choose One: Which collection type ensures unique elements in C#? (10 Marks)
+Student Answers:
+1 - List<T>
+
+Choose One: Which design pattern provides a single instance of a class? (10 Marks)
+Student Answers:
+1 - Factory
+
+Choose more than One: Which LINQ methods return a single element? (15 Marks)
+Student Answers:
+2 - Where()
+3 - Single()
+
+True/False: An abstract class can be instantiated directly. (5 Marks)
+Student Answers:
+1 - True
+
+Choose more than One: Which keywords are used for exception handling in C#? (15 Marks)
+Student Answers:
+2 - error
+3 - catch
+
+Choose One: What does the 'ref' keyword do in C#? (10 Marks)
+Student Answers:
+1 - Creates a copy of a value
+
+Choose more than One: Which are valid C# access modifiers? (15 Marks)
+Student Answers:
+1 - public
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+1 - True
+
+=====================================

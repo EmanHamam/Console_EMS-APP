@@ -1,0 +1,56 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+
+Choose more than One: Which of these are SOLID principles? (15 Marks)
+Student Answers:
+1 - Single Responsibility
+3 - Multiple Inheritance
+2 - Open/Closed
+
+Choose One: Which keyword is used for inheritance in C#? (10 Marks)
+Student Answers:
+2 - extends
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+Choose more than One: Which are valid ways to create a thread in C#? (15 Marks)
+Student Answers:
+
+Choose more than One: Which of these are SOLID principles? (15 Marks)
+Student Answers:
+1 - Single Responsibility
+3 - Multiple Inheritance
+2 - Open/Closed
+
+Choose One: Which keyword is used for inheritance in C#? (10 Marks)
+Student Answers:
+2 - extends
+
+True/False: C# is a functional-only language. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+=====================================

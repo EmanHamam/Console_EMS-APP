@@ -1,0 +1,56 @@
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+True/False: Value types in C# are stored on the heap. (5 Marks)
+Student Answers:
+2 - False
+
+Choose more than One: Which are valid C# access modifiers? (15 Marks)
+Student Answers:
+2 - visible
+3 - protected
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: What does LINQ stand for? (10 Marks)
+Student Answers:
+1 - Language Integrated Query
+
+=====================================
+Exam Results
+--------------------------
+Subject: C# Advanced Programming
+Total Questions: 5
+Exam Time: 1 minutes
+
+True/False: Value types in C# are stored on the heap. (5 Marks)
+Student Answers:
+2 - False
+
+Choose more than One: Which are valid C# access modifiers? (15 Marks)
+Student Answers:
+2 - visible
+3 - protected
+
+Choose One: Which access modifier makes a member visible only within the same class? (10 Marks)
+Student Answers:
+2 - protected
+
+True/False: The 'using' statement is only used for importing namespaces. (5 Marks)
+Student Answers:
+2 - False
+
+Choose One: What does LINQ stand for? (10 Marks)
+Student Answers:
+1 - Language Integrated Query
+
+=====================================
