@@ -359,13 +359,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is part of an educational examination system. All rights reserved.
-
-
----
-
 ## 🔗 Resources
 
 - [.NET 10.0 Documentation](https://learn.microsoft.com/en-us/dotnet/)
@@ -373,8 +366,3 @@ This project is part of an educational examination system. All rights reserved.
 - [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
 - [Design Patterns in C#](https://refactoring.guru/design-patterns/csharp)
 
----
-
-**Last Updated**: 2024
-**Version**: 1.0
-**Status**: Active Development
