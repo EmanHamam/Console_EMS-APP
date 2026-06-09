@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c88c4b64-7d3c-482b-8295-77b9bd8e98d4
+
 # EMS (Examination Management System)
 
 A comprehensive .NET console-based Examination Management System built in C# with clean architecture principles. This application allows students to take practice and final exams with interactive question management.
